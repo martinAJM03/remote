@@ -27,6 +27,18 @@
     {
       "name": "Bacon Steakhouse Double",
       "barcode": "1000132833"
+    },
+    {
+      "name": "Bacon Steakhouse Double",
+      "barcode": "1000132834"
+    },
+    {
+      "name": "Charred Jalapeño Patty Melt",
+      "barcode": "1000132844"
+    },
+    {
+      "name": "Charred Jalapeño Patty Melt",
+      "barcode": "1000132845"
     }
   ]
 }
